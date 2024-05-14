@@ -1,4 +1,4 @@
-# GPT DnD Game
+# AI fantasy adventure text game
 
 This is a little demonstration of what is possible when combining games and LLM.
 I chose to use Groq API for the AI generation requests for the following reasons :
