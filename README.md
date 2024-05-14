@@ -1,6 +1,8 @@
 # AI fantasy adventure text game
 
 This is a little demonstration of what is possible when combining games and LLM.
+
+The usage of python seemed logic since it is one of the most learned languages amongst beginners allowing them to try and update the project and it is very well updated and documented. 
 I chose to use Groq API for the AI generation requests for the following reasons :
 - It's free to use at the time I write this line.
 - There is more choices than with LLM constructors API.
