@@ -65,4 +65,4 @@ from groq import Groq
 client = Groq()
 ```
 by whatever API you want to use instead.
-If you don't know how to change it exactly you
+Refer to the documentation of the said API if you have difficulties changing it.
