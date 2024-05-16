@@ -1,5 +1,7 @@
 # AI fantasy adventure text game
 
+![Unknown-2](https://github.com/TimotheeGayet/AI-Adventure/assets/79696450/95f382d3-56da-4742-8a98-205e57b42f66)
+
 This is a little demonstration of what is possible when combining games and LLM.
 
 The usage of python seemed logic since it is one of the most learned languages amongst beginners allowing them to try and update the project and it is very well updated and documented. 
